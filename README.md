@@ -1,7 +1,7 @@
 # <h1 align="center">Hi there, I'm Abhishek Anand 👋</h1>
 
 <p align="center">
-  <b>Frontend Engineer & React Specialist</b> • <b>3.5+ Years Experience</b> • <b>Immediate Joiner (0 Days Notice)</b>
+  <b>Frontend Engineer & React Specialist</b> • <b>3.6 Years Experience (3.6 YOE)</b> • <b>Immediate Joiner (0 Days Notice)</b>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Frontend Engineer & React Developer** with **3.5+ years** of hands-on experience architecting high-performance web applications and enterprise SaaS platforms. 
+I am a **Frontend Engineer & React Developer** with **3.6 years** of hands-on experience architecting high-performance web applications and enterprise SaaS platforms. 
 
 - ⚡ **What I do**: Specialize in **React.js, Next.js 14 App Router, TypeScript**, and state architecture (**Redux Toolkit, TanStack Query**).
 - 🚀 **Performance Obsessed**: Optimized Core Web Vitals from Poor to Good for 10k+ monthly active users; reduced redundant network requests by 60% with smart caching.
